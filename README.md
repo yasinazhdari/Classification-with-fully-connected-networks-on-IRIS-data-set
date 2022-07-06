@@ -1,7 +1,7 @@
 # Intro-to-Tensorflow !!!-Simple Classifications with fully connected and Convolutional networks on simple data sets-Plus tensorflow installation and activation Guide
 # Powered By Google Colab
-Implementation of a classifier based on fully connected networks on IRIS data set
-Hello, an step by step implementation of a fully connected network as a classifier on IRIS dataset is presented. any comments or recommendations on performance improvement is appreciated.
+Implementation of  classifiers based on fully connected and Convolutional networks on some simple data sets are considered.
+Any comments or recommendations on performance improvement is appreciated.
 
 # if you are going to run tensorflow based codes on your own computer (like jupyter notebook), and you don't have it installed, you can follow this instructions:
 1- Download Anaconda from its website (https://www.anaconda.com/products/individual#Downloads) and install it (skip this stage, if you have it already installed).<br />

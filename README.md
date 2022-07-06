@@ -1,4 +1,5 @@
-# Intro-to-Tensorflow-Simple-Classification-with-fully-connected-networks-on-IRIS-data-set- Plus tensorflow installation and activation tricks
+# Intro-to-Tensorflow !!!-Simple Classifications with fully connected and Convolutional networks on simple data sets-Plus tensorflow installation and activation Guide
+# Powered By Google Colab
 Implementation of a classifier based on fully connected networks on IRIS data set
 Hello, an step by step implementation of a fully connected network as a classifier on IRIS dataset is presented. any comments or recommendations on performance improvement is appreciated.
 
